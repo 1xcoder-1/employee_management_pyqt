@@ -55,6 +55,3 @@ check the requirments.txt
 * Interactive  plots
 * sending email to specific employee **( update use_jet_mail.py file with your jetmail api and email )**
 
-### for more information and video check the link below:
-
-https://ht21992.pythonanywhere.com/en/my_projects/25/
